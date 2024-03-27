@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153344956202",
+    "project_id": "databaselogin-a1141",
+    "storage_bucket": "databaselogin-a1141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153344956202:android:f1ebcab381d52bc486f053",
+        "android_client_info": {
+          "package_name": "com.example.contactmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcdint3vbZvKU112wQUZVrqcy2RU3OyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
